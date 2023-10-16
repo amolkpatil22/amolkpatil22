@@ -5,7 +5,7 @@ I'm a passionate Full-stack Web Developer with a robust skill set in HTML, CSS, 
 ### 📧 Email: amolkpatil22@gmail.com
 <br>
 
-### 🌐 Socials:
+#### 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/amol.akp.1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amol-patil-73b82926a) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Amol-Patil-the-vuer) 
 <br>
 
