@@ -1,7 +1,14 @@
-### ⚛️ Description:
-I'm a passionate Full-stack Web Developer with a robust skill set in HTML, CSS, JavaScript, REST API, Node.js, React, MongoDB, Express.js, and GitHub. My expertise lies in seamlessly blending functionality and aesthetics to deliver visually appealing and flawless web applications.<br>I'm driven by a user-centric approach and thrive on solving complex problems, always striving to surpass project expectations. With strong soft skills in communication and teamwork, I believe in creating a collaborative environment that fosters innovation and creativity.<br>Dedicated to perpetual learning and staying updated with emerging technologies, I'm committed to making a lasting impact in the world of full-stack web development. Let's connect and explore opportunities to create innovative web solutions together!
-#### 📧 Email: amolkpatil22@gmail.com
-<br>
+### Welcome to my GitHub profile:
+
+- 🌱 I’m currently learning **Full Stack Web Developement**
+
+- 📩  Ask me about **HTML, CSS, JavaScript, React, Node.js**.
+
+- 📫 How to reach me **amolkpatil22@gmail.com**
+
+- 📋Visit My <a href="https://amolkpatil22.github.io/">**Portfolio**<a>
+   
+- 📑Know More About me <a href="https://drive.google.com/file/d/1oz6iAYLQFGl9ZkMi67-BbOBjtJouPi2s/view?usp=sharing">**Resume**<a>
 
 ### 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/amol.akp.1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amol-patil-73b82926a) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Amol-Patil-the-vuer) 
