@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **amolkpatil22@gmail.com**
 
-- 📋Visit My <a href="https://amolkpatil22.github.io/">**Portfolio**<a>
+- 📋Visit My <a href=https://amolkpatil22.github.io/>**Portfolio**<a>
    
 - 📑Know More About me <a href="https://drive.google.com/file/d/1oz6iAYLQFGl9ZkMi67-BbOBjtJouPi2s/view?usp=sharing">**Resume**<a>
 
