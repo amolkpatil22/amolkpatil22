@@ -1,14 +1,14 @@
 ### Welcome to my GitHub profile:
 
-- 🌱 I’m currently learning **Full Stack Web Developement**
+- 🌱 **Full Stack Web Developer**
 
-- 📩  Ask me about **HTML, CSS, JavaScript, React, Node.js**.
+- 📩 Ask me about **HTML, CSS, JavaScript, React, Redux, Node.js ,Typescript, Express, MongoDB, Chakra-UI, DSA**.
 
 - 📫 How to reach me **amolkpatil22@gmail.com**
 
 - 📋Visit My <a href=https://amolkpatil22.github.io/>**Portfolio**<a>
    
-- 📑Know More About me <a href="https://drive.google.com/file/d/1xzDLhLJ3shwiY_7QrGWzwnqFv9POUOV8/view?usp=sharing">**Resume**<a>
+- 📑Know More About me <a href="https://drive.google.com/file/d/18vzsn-FAGw7gB-CG40PUHRzVKZDsgSsc/view?usp=sharing">**Resume**<a>
 
 ### 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/amol.akp.1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amol-patil-73b82926a) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Amol-Patil-the-vuer) 
