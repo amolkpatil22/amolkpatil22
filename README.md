@@ -6,9 +6,9 @@
 
 ### Welcome to my GitHub profile:
 
-- 🌱 **Full Stack Web Developer**
+- 🌱 **Full Stack Developer**
 
-- 📩 Ask me about **HTML, CSS, JavaScript, React, Redux, Node.js ,Typescript, Express, MongoDB, Chakra-UI, DSA**.
+- 📩 Ask me about **HTML, CSS, JavaScript, React,React Native, Redux, Node.js ,Typescript, Express, MongoDB, Chakra-UI, DSA**.
 
 - 📫 How to reach me **amolkpatil22@gmail.com**
 
