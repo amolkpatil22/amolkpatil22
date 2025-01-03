@@ -14,7 +14,6 @@
 
 - 📋Visit My <a href=https://amolkpatil22.github.io/>**Portfolio**<a>
    
-- 📑Know More About me <a href="https://drive.google.com/file/d/18vzsn-FAGw7gB-CG40PUHRzVKZDsgSsc/view?usp=sharing">**Resume**<a>
 
 <br>
 
